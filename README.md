@@ -17,15 +17,15 @@ Paste the following link in your browser to log data.
 http://128.199.166.20/c/request.php?i=3&ra=0&rac=0&oac=0&oa=0&gac=0&ga=0&h=30&t=30&eid=1&s=1458244246
 Legend:  
 	i – stands for machine id  
-	rac – Red Alerts
-    ra - Red Counts
-    gac – Green Alerts
-    ga - Green Counts
-    oac – Orange Alerts
-    oa - Orange Counts
+	rac – Red Alerts  
+    ra - Red Counts  
+    gac – Green Alerts  
+    ga - Green Counts  
+    oac – Orange Alerts  
+    oa - Orange Counts  
 	h – humidity  
 	t – temperature  
-    eid - Employee ID
+    eid - Employee ID  
 	s – unix timestamp  
     You can change these parameters to experiment but make sure you enter a valid unix time  
 ##To check data online
