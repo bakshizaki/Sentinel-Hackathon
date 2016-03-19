@@ -1,0 +1,119 @@
+#hdr{
+    width:100%;
+    text-align:center;
+    font-weight:lighter !important;
+    font-size:3em;
+    background:#656868;
+    box-shadow: 1px 3px 3px #888888;
+}
+#hdr p{
+    color:white;
+}
+body{
+    margin-bottom:30px;
+    background:#ededed;
+}
+#graph{
+    text-align:center;
+    background:#f2f2f2;
+    overflow:none;
+    display:block;
+       border:1px solid black;
+    /* height:550px; */
+
+    box-shadow: 10px 10px 5px #888888;
+}
+.humidity,.temperature{
+    
+    opacity:.5;
+    fill:none;
+}
+.axis path{
+    stroke:grey;
+    fill:none;
+
+}
+circle{
+
+    
+    opacity:.8;
+}
+circle.temp{
+    fill:blue;
+    stroke:blue;
+}
+circle.hum{
+    fill:green;
+    stroke:green;
+}
+.humidity{
+    stroke:red;
+}
+.temperature{
+    stroke:blue;
+}
+
+#ta{
+    margin-top:25px;
+    overflow:scroll;
+    height:500px;
+}
+#top{
+    text-align:center;
+    padding-top:10px;
+    background-color:#9C9F84;
+    color:black;
+}
+#count,#ralert,#oalert,#galert,#rc,#tot,#rj{
+    font-size:1.2em;
+    color:white;
+    display:block;
+    border:5px solid #888;
+    border-radius:5px;
+}
+#ht{
+    color:red;
+}
+#tt{
+    color:blue;
+}
+#ralert{
+    background:#884444;
+}
+#oalert{
+    background:orange;
+}
+#galert{
+    background:#448844;
+}
+#rc{
+    background:#884444;
+}
+#tot{
+    background:#fff;
+    color:#888 !important;
+}
+
+#count{
+    background:#fff;
+    color:#888 !important;
+}
+#rj{
+    background:#fff;
+    color:#888 !important;
+}
+#pie h1{
+    text-align:center;
+    margin-bottom:30px;
+}
+#pie svg{
+    display:block;
+    margin:auto;
+}
+#datepicker{
+    border: 0px none;
+border-radius: 5px;
+padding: 10px;
+text-align: center;
+background-color: rgb(204, 204, 204);
+}

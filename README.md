@@ -2,7 +2,7 @@ Sentinel is our project for IndiaHacks:Internet of Things 2016.
 Basically Sentinel consists of 3 parts. 1)I-Plus 2)W-Plus 3)Cloud Application  
 1) For I-Plus use Sentinel.ino  
 2) For W-Plus use ZNRF_receive.ino  
-3) For Cloud Application use Sentinel_WebRoot  
+3) For Cloud Application use Cloud Application folder  
 4) For I-Plus RFID use HACKER_NEW
 
 Arduino libararies used for the prject. Thanks to all the contributors  
@@ -36,3 +36,5 @@ ID:1
 Password: 1234  
 Select Machine 3 from dropdown menu to see the relevant data  
 
+##Hardware Files
+We believe in open hardware. Here are our schematics and PCB design files.

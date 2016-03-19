@@ -1,0 +1,8 @@
+#cnt{
+display:flex;
+align-items:center;
+}
+.ifr{
+width:400px;
+flex:initial;
+}
